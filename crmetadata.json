@@ -436,17 +436,10 @@
           "prestige" : "95",
           "hexColor" : "#9E1B32",
           "rivalryNames" : {
-            "AUB" : "Iron Bowl",
-            "TENN" : "3rd Saturday of October",
-            "LSU" : "Saban Bowl",
-            "MSST" : "Battle for Highway 82"
+            "AUB" : "Iron Bowl"
           },
           "rival" : [
-            "AUB",
-            "TENN",
-            "LSU",
-            "MSST",
-            "OLE"
+            "AUB"
           ],
           "name" : "Alabama Crimson Tide",
           "state" : "Alabama"
