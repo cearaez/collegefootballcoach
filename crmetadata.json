@@ -1124,7 +1124,7 @@
 
           },
           "rival" : [
-            "NOIL"
+            "EMI"
           ],
           "name" : "Illinois Fighting Illini",
           "state" : "Illinois"
@@ -1134,7 +1134,7 @@
           "prestige" : "41",
           "hexColor" : "#6C4023",
           "rivalryNames" : {
-
+            "CMI" : "Victory Cannon"
           },
           "rival" : [
             "CMI"
@@ -1160,7 +1160,7 @@
           "prestige" : "38",
           "hexColor" : "#00694E",
           "rivalryNames" : {
-
+            "MIOH" : "Battle of the Bricks"
           },
           "rival" : [
             "MIOH"
@@ -1173,7 +1173,7 @@
           "prestige" : "38",
           "hexColor" : "#6A0032",
           "rivalryNames" : {
-
+            "WMI" : "Victory Cannon"
           },
           "rival" : [
             "WMI"
@@ -1186,10 +1186,10 @@
           "prestige" : "37",
           "hexColor" : "#BA0C2F",
           "rivalryNames" : {
-
+            "BALL" : "Bronze Stalk Trophy"
           },
           "rival" : [
-            "ILL"
+            "BALL"
           ],
           "name" : "Northern Illinois Huskies",
           "state" : "Illinois"
@@ -1199,7 +1199,7 @@
           "prestige" : "37",
           "hexColor" : "#B61E2E",
           "rivalryNames" : {
-
+            "OHIO" : "Battle of the Bricks"
           },
           "rival" : [
             "OHIO"
@@ -1215,7 +1215,7 @@
 
           },
           "rival" : [
-            "BALL"
+            "ILL"
           ],
           "name" : "Eastern Michigan Eagles",
           "state" : "Michigan"
@@ -1225,10 +1225,10 @@
           "prestige" : "34",
           "hexColor" : "#002664",
           "rivalryNames" : {
-
+            "NILL" : "Bronze Stalk Trophy"
           },
           "rival" : [
-            "EMI"
+            "NILL"
           ],
           "name" : "Ball State Cardinals",
           "state" : "Indiana"
