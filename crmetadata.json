@@ -25,7 +25,7 @@
           "prestige" : "70",
           "hexColor" : "#CC0000",
           "rivalryNames" : {
-
+            "BYU" : "Holy War"
           },
           "rival" : [
             "BYU"
@@ -51,7 +51,7 @@
           "prestige" : "64",
           "hexColor" : "#4B2E83",
           "rivalryNames" : {
-
+            "WSU" : "Apple Cup"
           },
           "rival" : [
             "WSU"
@@ -64,7 +64,7 @@
           "prestige" : "62",
           "hexColor" : "#981E32",
           "rivalryNames" : {
-
+            "WASH" : "Apple Cup"
           },
           "rival" : [
             "WASH"
@@ -77,7 +77,7 @@
           "prestige" : "61",
           "hexColor" : "#990000",
           "rivalryNames" : {
-
+            "UCLA" : "Victory Bell"
           },
           "rival" : [
             "UCLA"
@@ -90,7 +90,7 @@
           "prestige" : "59",
           "hexColor" : "#8C1515",
           "rivalryNames" : {
-
+            "CAL" : "Big Game"
           },
           "rival" : [
             "CAL"
@@ -116,7 +116,7 @@
           "prestige" : "53",
           "hexColor" : "#FDB515",
           "rivalryNames" : {
-
+            "STAN" : "Big Game"
           },
           "rival" : [
             "STAN"
@@ -129,7 +129,7 @@
           "prestige" : "51",
           "hexColor" : "#002E5D",
           "rivalryNames" : {
-
+            "UTAH" : "Holy War"
           },
           "rival" : [
             "UTAH"
@@ -142,7 +142,7 @@
           "prestige" : "50",
           "hexColor" : "#2D68C4",
           "rivalryNames" : {
-
+            "USC" : "Victory Bell"
           },
           "rival" : [
             "USC"
@@ -162,7 +162,7 @@
           "prestige" : "84",
           "hexColor" : "#841617",
           "rivalryNames" : {
-
+            "OKST" : "Bedlam Series"
           },
           "rival" : [
             "OKST"
@@ -175,7 +175,7 @@
           "prestige" : "73",
           "hexColor" : "#FF7300",
           "rivalryNames" : {
-
+            "OKL" : "Bedlam Series"
           },
           "rival" : [
             "OKL"
@@ -188,7 +188,7 @@
           "prestige" : "62",
           "hexColor" : "#003015",
           "rivalryNames" : {
-
+            "TCU" : "The Rerivalry"
           },
           "rival" : [
             "TCU"
@@ -201,7 +201,7 @@
           "prestige" : "59",
           "hexColor" : "#BF5700",
           "rivalryNames" : {
-
+            "TTU" : "Battle for the Chancellor's Spurs"
           },
           "rival" : [
             "TTU"
@@ -214,7 +214,7 @@
           "prestige" : "59",
           "hexColor" : "#4D1979",
           "rivalryNames" : {
-
+            "BAYL" : "The Rerivalry"
           },
           "rival" : [
             "BAYL"
@@ -227,7 +227,7 @@
           "prestige" : "58",
           "hexColor" : "#C8102E",
           "rivalryNames" : {
-
+            "KSU" : "Farmageddon"
           },
           "rival" : [
             "KSU"
@@ -240,7 +240,7 @@
           "prestige" : "58",
           "hexColor" : "#512888",
           "rivalryNames" : {
-
+            "IAST" : "Farmageddon"
           },
           "rival" : [
             "IAST"
@@ -266,7 +266,7 @@
           "prestige" : "50",
           "hexColor" : "#CC0000",
           "rivalryNames" : {
-
+            "TEX" : "Battle for the Chancellor's Spurs"
           },
           "rival" : [
             "TEX"
@@ -299,7 +299,7 @@
           "prestige" : "86",
           "hexColor" : "#BB0000",
           "rivalryNames" : {
-
+            "MICH" : "The Game"
           },
           "rival" : [
             "MICH"
@@ -312,7 +312,7 @@
           "prestige" : "77",
           "hexColor" : "#C99700",
           "rivalryNames" : {
-
+            "MSU" : "Megaphone Trophy"
           },
           "rival" : [
             "MSU"
@@ -338,7 +338,7 @@
           "prestige" : "72",
           "hexColor" : "#FFCD00",
           "rivalryNames" : {
-
+            "MINN" : "Floyd of Rosedale"
           },
           "rival" : [
             "MINN"
@@ -351,7 +351,7 @@
           "prestige" : "72",
           "hexColor" : "#00274C",
           "rivalryNames" : {
-
+            "OSU" : "The Game"
           },
           "rival" : [
             "OSU"
@@ -364,7 +364,7 @@
           "prestige" : "63",
           "hexColor" : "#18453B",
           "rivalryNames" : {
-
+            "ND" : "Megaphone Trophy"
           },
           "rival" : [
             "ND"
@@ -377,7 +377,7 @@
           "prestige" : "62",
           "hexColor" : "#7A0019",
           "rivalryNames" : {
-
+            "IOWA" : "Floyd of Rosedale"
           },
           "rival" : [
             "IOWA"
@@ -403,7 +403,7 @@
           "prestige" : "51",
           "hexColor" : "#990000",
           "rivalryNames" : {
-
+            "PURD" : "Old Oaken Bucket"
           },
           "rival" : [
             "PURD"
@@ -416,7 +416,7 @@
           "prestige" : "50",
           "hexColor" : "#CEB888",
           "rivalryNames" : {
-
+            "IND" : "Old Oaken Bucket"
           },
           "rival" : [
             "IND"
@@ -475,7 +475,7 @@
           "prestige" : "63",
           "hexColor" : "#0033A0",
           "rivalryNames" : {
-
+            "TENN" : "Battle for the Barrel"
           },
           "rival" : [
             "TENN"
@@ -488,7 +488,7 @@
           "prestige" : "63",
           "hexColor" : "#0C2340",
           "rivalryNames" : {
-
+            "ALAB" : "Iron Bowl"
           },
           "rival" : [
             "ALAB"
@@ -501,7 +501,7 @@
           "prestige" : "58",
           "hexColor" : "#660000",
           "rivalryNames" : {
-
+            "OLE" : "Egg Bowl"
           },
           "rival" : [
             "OLE"
@@ -514,7 +514,7 @@
           "prestige" : "57",
           "hexColor" : "#14213D",
           "rivalryNames" : {
-
+            "MSST" : "Egg Bowl"
           },
           "rival" : [
             "MSST"
@@ -527,7 +527,7 @@
           "prestige" : "55",
           "hexColor" : "#FF8200",
           "rivalryNames" : {
-
+            "KTCY" : "Battle for the Barrel"
           },
           "rival" : [
             "KTCY"
@@ -540,7 +540,7 @@
           "prestige" : "53",
           "hexColor" : "#F1B82D",
           "rivalryNames" : {
-
+            "ARK" : "Battle Line Rivalry"
           },
           "rival" : [
             "ARK"
@@ -553,7 +553,7 @@
           "prestige" : "47",
           "hexColor" : "#9D2235",
           "rivalryNames" : {
-
+            "MIZZ" : "Battle Line Rivalry"
           },
           "rival" : [
             "MIZZ"
@@ -573,7 +573,7 @@
           "prestige" : "68",
           "hexColor" : "#041E42",
           "rivalryNames" : {
-
+            "PITT" : "Keystone Classic"
           },
           "rival" : [
             "PITT"
@@ -586,7 +586,7 @@
           "prestige" : "63",
           "hexColor" : "#003594",
           "rivalryNames" : {
-
+            "PENN" : "Keystone Classic"
           },
           "rival" : [
             "PENN"
@@ -612,7 +612,7 @@
           "prestige" : "58",
           "hexColor" : "#630031",
           "rivalryNames" : {
-
+            "VIRG" : "Commonwealth Cup"
           },
           "rival" : [
             "VIRG"
@@ -638,7 +638,7 @@
           "prestige" : "54",
           "hexColor" : "#AD0000",
           "rivalryNames" : {
-
+            "CINC" : "Keg of Nails"
           },
           "rival" : [
             "CINC"
@@ -651,7 +651,7 @@
           "prestige" : "54",
           "hexColor" : "#232D4B",
           "rivalryNames" : {
-
+            "VT" : "Commonwealth Cup"
           },
           "rival" : [
             "VT"
@@ -677,7 +677,7 @@
           "prestige" : "46",
           "hexColor" : "#000000",
           "rivalryNames" : {
-
+            "LOU" : "Keg of Nails"
           },
           "rival" : [
             "LOU"
@@ -710,7 +710,7 @@
           "prestige" : "91",
           "hexColor" : "#F56600",
           "rivalryNames" : {
-
+            "SCAR" : "Palmetto Bowl"
           },
           "rival" : [
             "SCAR"
@@ -723,7 +723,7 @@
           "prestige" : "84",
           "hexColor" : "#BA0C2F",
           "rivalryNames" : {
-
+            "FLOR" : "World's Largest Outdoor Cocktail Party"
           },
           "rival" : [
             "FLOR"
@@ -736,7 +736,7 @@
           "prestige" : "66",
           "hexColor" : "#0021A5",
           "rivalryNames" : {
-
+            "GEOR" : "World's Largest Outdoor Cocktail Party"
           },
           "rival" : [
             "GEOR"
@@ -749,7 +749,7 @@
           "prestige" : "63",
           "hexColor" : "#005030",
           "rivalryNames" : {
-
+            "FSU" : "Florida Cup"
           },
           "rival" : [
             "FSU"
@@ -762,7 +762,7 @@
           "prestige" : "62",
           "hexColor" : "#CC0000",
           "rivalryNames" : {
-
+            "UNC" : "Tobacco Road"
           },
           "rival" : [
             "UNC"
@@ -775,7 +775,7 @@
           "prestige" : "61",
           "hexColor" : "#9E7E38",
           "rivalryNames" : {
-
+            "DUKE" : "Tobacco Road"
           },
           "rival" : [
             "DUKE"
@@ -788,7 +788,7 @@
           "prestige" : "55",
           "hexColor" : "#782F40",
           "rivalryNames" : {
-
+            "MIA" : "Florida Cup"
           },
           "rival" : [
             "MIA"
@@ -801,7 +801,7 @@
           "prestige" : "54",
           "hexColor" : "#7BAFD4",
           "rivalryNames" : {
-
+            "NCST" : "Tobacco Road"
           },
           "rival" : [
             "NCST"
@@ -814,7 +814,7 @@
           "prestige" : "50",
           "hexColor" : "#73000A",
           "rivalryNames" : {
-
+            "CLEM" : "Palmetto Bowl"
           },
           "rival" : [
             "CLEM"
@@ -827,7 +827,7 @@
           "prestige" : "47",
           "hexColor" : "#003087",
           "rivalryNames" : {
-
+            "WAKE" : "Tobacco Road"
           },
           "rival" : [
             "WAKE"
