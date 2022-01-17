@@ -847,7 +847,7 @@
           "prestige" : "46",
           "hexColor" : "#A6192E",
           "rivalryNames" : {
-
+            "SJSU" : "El Camino Real Rivalry"
           },
           "rival" : [
             "SJSU"
@@ -863,7 +863,7 @@
 
           },
           "rival" : [
-            "ORST"
+            "NEV"
           ],
           "name" : "Boise State Broncos",
           "state" : "Idaho"
@@ -876,7 +876,7 @@
 
           },
           "rival" : [
-            "BOIS"
+            "UTST"
           ],
           "name" : "Oregon State Beavers",
           "state" : "Oregon"
@@ -902,7 +902,7 @@
 
           },
           "rival" : [
-            "NEV"
+            "ORST"
           ],
           "name" : "Utah State Aggies",
           "state" : "Utah"
@@ -912,7 +912,7 @@
           "prestige" : "39",
           "hexColor" : "#DB0032",
           "rivalryNames" : {
-
+            "HAW" : "Battle for the Golden Screwdriver"
           },
           "rival" : [
             "HAW"
@@ -928,7 +928,7 @@
 
           },
           "rival" : [
-            "UTST"
+            "BOIS"
           ],
           "name" : "Nevada Wolf Pack",
           "state" : "Nevada"
@@ -938,7 +938,7 @@
           "prestige" : "37",
           "hexColor" : "#024731",
           "rivalryNames" : {
-
+            "FRES" : "Battle for the Golden Screwdriver"
           },
           "rival" : [
             "FRES"
@@ -951,7 +951,7 @@
           "prestige" : "33",
           "hexColor" : "#0055A2",
           "rivalryNames" : {
-
+            "SDSU" : "El Camino Real Rivalry"
           },
           "rival" : [
             "SDSU"
@@ -987,7 +987,7 @@
 
           },
           "rival" : [
-            "UTSA"
+            "TULS"
           ],
           "name" : "Houston Cougars",
           "state" : "Texas"
@@ -1013,7 +1013,7 @@
 
           },
           "rival" : [
-            "TULS"
+            "UTSA"
           ],
           "name" : "Louisiana Tech Bulldogs",
           "state" : "Louisiana"
@@ -1023,7 +1023,7 @@
           "prestige" : "39",
           "hexColor" : "#C8102E",
           "rivalryNames" : {
-
+            "UNT" : "Safeway Bowl"
           },
           "rival" : [
             "UNT"
@@ -1039,7 +1039,7 @@
 
           },
           "rival" : [
-            "HOUS"
+            "LTU"
           ],
           "name" : "UTSA Roadrunners",
           "state" : "Texas"
@@ -1049,7 +1049,7 @@
           "prestige" : "37",
           "hexColor" : "#492F24",
           "rivalryNames" : {
-
+            "CSU" : "Border War"
           },
           "rival" : [
             "CSU"
@@ -1062,7 +1062,7 @@
           "prestige" : "35",
           "hexColor" : "#00853E",
           "rivalryNames" : {
-
+            "SMU" : "Safeway Bowl"
           },
           "rival" : [
             "SMU"
@@ -1078,7 +1078,7 @@
 
           },
           "rival" : [
-            "LTU"
+            "HOUS"
           ],
           "name" : "Tulsa Golden Hurricanes",
           "state" : "Oklahoma"
@@ -1088,7 +1088,7 @@
           "prestige" : "33",
           "hexColor" : "#1E4D2B",
           "rivalryNames" : {
-
+            "WYOM" : "Border War"
           },
           "rival" : [
             "WYOM"
