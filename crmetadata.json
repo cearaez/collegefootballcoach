@@ -1,5 +1,5 @@
 {
-  "baseYear" : 2012, 
+  "baseYear" : 2012,
   "proRelMode":"vertical",
   "relegationRoutes" : {
     "PAC" : "MWC",
@@ -30,6 +30,9 @@
           "rival" : [
             "BYU"
           ],
+          "name" : "Utah Utes",
+          "state" : "Utah"
+        },
         {
           "abbreviation" : "OREG",
           "prestige" : "67",
@@ -40,6 +43,9 @@
           "rival" : [
             "ASU"
           ],
+          "name" : "Oregon Ducks",
+          "state" : "Oregon"
+        }, 
         {
           "abbreviation" : "WASH",
           "prestige" : "64",
