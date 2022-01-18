@@ -32,6 +32,7 @@
           ],
           "headCoach" : {
             "name" : "Kyle Whittingham",
+            "hometown" : "San Luis Obispo",
             "homeState" : "California",
             "age" : "62",
             "startYear" : "2004",
@@ -53,6 +54,7 @@
           ],
           "headCoach" : {
             "name" : "Dan Lanning",
+            "hometown" : "North Kansas City",
             "homeState" : "Missouri",
             "age" : "35",
             "startYear" : "2022",
@@ -74,6 +76,7 @@
           ],
           "headCoach" : {
             "name" : "Kalen DeBoer",
+            "hometown" : "Milbank",
             "homeState" : "South Dakota",
             "age" : "47",
             "startYear" : "2022",
@@ -95,6 +98,7 @@
           ],
           "headCoach" : {
             "name" : "Jake Dickert",
+            "hometown" : "Stevens Point",
             "homeState" : "Wisconsin",
             "age" : "38",
             "startYear" : "2021",
@@ -116,6 +120,7 @@
           ],
           "headCoach" : {
             "name" : "Lincoln Riley",
+            "hometown" : "Lubbock",
             "homeState" : "Texas",
             "age" : "38",
             "startYear" : "2022",
@@ -134,6 +139,7 @@
           },
           "headCoach" : {
             "name" : "David Shaw",
+            "hometown" : "San Diego",
             "homeState" : "California",
             "age" : "49",
             "startYear" : "2011",
@@ -158,6 +164,7 @@
           ],
           "headCoach" : {
             "name" : "Herm Edwards",
+            "hometown" : "Fort Monmouth",
             "homeState" : "New Jersey",
             "age" : "67",
             "startYear" : "2018",
@@ -176,6 +183,7 @@
           },
           "headCoach" : {
             "name" : "Justin Wilcox",
+            "hometown" : "Eugene",
             "homeState" : "Oregon",
             "age" : "45",
             "startYear" : "2017",
@@ -197,6 +205,7 @@
           },
           "headCoach" : {
             "name" : "Kalani Sitake",
+            "hometown" : "Provo",
             "homeState" : "Utah",
             "age" : "46",
             "startYear" : "2016",
@@ -218,6 +227,7 @@
           },
           "headCoach" : {
             "name" : "Chip Kelly",
+            "hometown" : "Dover",
             "homeState" : "New Hampshire",
             "age" : "58",
             "startYear" : "2018",
