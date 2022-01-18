@@ -1408,7 +1408,7 @@
           "prestige" : "42",
           "hexColor" : "#000000",
           "rivalryNames" : {
-
+            "NAVY" : "Secretary's Trophy"
           },
           "rival" : [
             "NAVY"
@@ -1421,6 +1421,7 @@
           "prestige" : "40",
           "hexColor" : "#00B140",
           "rivalryNames" : {
+            "WVU" : "Friends of Coal Bowl",
 
           },
           "rival" : [
@@ -1460,7 +1461,7 @@
           "prestige" : "38",
           "hexColor" : "#00205B",
           "rivalryNames" : {
-
+            "ARMY" : "Secretary's Trophy"
           },
           "rival" : [
             "ARMY"
