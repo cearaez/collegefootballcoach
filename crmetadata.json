@@ -1261,7 +1261,7 @@
 
           },
           "rival" : [
-            "TLNE"
+            "USAL"
           ],
           "name" : "Louisiana Lafayette Rajun Cajuns",
           "state" : "Louisiana"
@@ -1271,7 +1271,7 @@
           "prestige" : "44",
           "hexColor" : "#003087",
           "rivalryNames" : {
-
+            "ARST" : "Paint Bucket Bowl"
           },
           "rival" : [
             "ARST"
@@ -1287,7 +1287,7 @@
 
           },
           "rival" : [
-            "USM"
+            "TROY"
           ],
           "name" : "Birmingham Blazers",
           "state" : "Alabama"
@@ -1313,7 +1313,7 @@
 
           },
           "rival" : [
-            "USAL"
+            "UAB"
           ],
           "name" : "Troy Trojans",
           "state" : "Alabama"
@@ -1336,7 +1336,7 @@
           "prestige" : "36",
           "hexColor" : "#CC092F",
           "rivalryNames" : {
-
+            "MEMP" : "Paint Bucket Bowl"
           },
           "rival" : [
             "MEMP"
@@ -1349,10 +1349,10 @@
           "prestige" : "36",
           "hexColor" : "#FFAB00",
           "rivalryNames" : {
-
+            "TLNE" : "Battle for the Bell"
           },
           "rival" : [
-            "UAB"
+            "TLNE"
           ],
           "name" : "Southern Mississippi Golden Eagles",
           "state" : "Mississippi"
@@ -1362,10 +1362,10 @@
           "prestige" : "33",
           "hexColor" : "#006747",
           "rivalryNames" : {
-
+            "USM" : "Battle for the Bell"
           },
           "rival" : [
-            "ULL"
+            "USM"
           ],
           "name" : "Tulane Green Wave",
           "state" : "Louisiana"
@@ -1378,7 +1378,7 @@
 
           },
           "rival" : [
-            "TROY"
+            "ULL"
           ],
           "name" : "South Alabama Jaguars",
           "state" : "Alabama"
