@@ -32,8 +32,8 @@
           ],
           "headCoach" : {
             "name" : "Kyle Whittingham",
-            "hometown" : "San Luis Obispo",
             "homeState" : "California",
+            "hometown" : "San Luis Obispo",
             "age" : "62",
             "startYear" : "2004",
             "contractYear" : "1",
@@ -54,8 +54,8 @@
           ],
           "headCoach" : {
             "name" : "Dan Lanning",
-            "hometown" : "North Kansas City",
             "homeState" : "Missouri",
+            "hometown" : "North Kansas City",
             "age" : "35",
             "startYear" : "2022",
             "contractYear" : "0",
@@ -76,8 +76,8 @@
           ],
           "headCoach" : {
             "name" : "Kalen DeBoer",
-            "hometown" : "Milbank",
             "homeState" : "South Dakota",
+            "hometown" : "Milbank",
             "age" : "47",
             "startYear" : "2022",
             "contractYear" : "0",
@@ -98,8 +98,8 @@
           ],
           "headCoach" : {
             "name" : "Jake Dickert",
-            "hometown" : "Stevens Point",
             "homeState" : "Wisconsin",
+            "hometown" : "Stevens Point",
             "age" : "38",
             "startYear" : "2021",
             "contractYear" : "0",
@@ -120,8 +120,8 @@
           ],
           "headCoach" : {
             "name" : "Lincoln Riley",
-            "hometown" : "Lubbock",
             "homeState" : "Texas",
+            "hometown" : "Lubbock",
             "age" : "38",
             "startYear" : "2022",
             "contractYear" : "0",
@@ -139,8 +139,8 @@
           },
           "headCoach" : {
             "name" : "David Shaw",
-            "hometown" : "San Diego",
             "homeState" : "California",
+            "hometown" : "San Diego",
             "age" : "49",
             "startYear" : "2011",
             "contractYear" : "9",
@@ -164,8 +164,8 @@
           ],
           "headCoach" : {
             "name" : "Herm Edwards",
-            "hometown" : "Fort Monmouth",
             "homeState" : "New Jersey",
+            "hometown" : "Fort Monmouth",
             "age" : "67",
             "startYear" : "2018",
             "contractYear" : "4",
@@ -183,8 +183,8 @@
           },
           "headCoach" : {
             "name" : "Justin Wilcox",
-            "hometown" : "Eugene",
             "homeState" : "Oregon",
+            "hometown" : "Eugene",
             "age" : "45",
             "startYear" : "2017",
             "contractYear" : "3",
@@ -205,8 +205,8 @@
           },
           "headCoach" : {
             "name" : "Kalani Sitake",
-            "hometown" : "Provo",
             "homeState" : "Utah",
+            "hometown" : "Provo",
             "age" : "46",
             "startYear" : "2016",
             "contractYear" : "0",
@@ -227,8 +227,8 @@
           },
           "headCoach" : {
             "name" : "Chip Kelly",
-            "hometown" : "Dover",
             "homeState" : "New Hampshire",
+            "hometown" : "Dover",
             "age" : "58",
             "startYear" : "2018",
             "contractYear" : "0",
