@@ -1421,7 +1421,6 @@
           "prestige" : "40",
           "hexColor" : "#00B140",
           "rivalryNames" : {
-            "WVU" : "Friends of Coal Bowl",
 
           },
           "rival" : [
@@ -1533,7 +1532,7 @@
           "prestige" : "44",
           "hexColor" : "#BA9B37",
           "rivalryNames" : {
-
+            "USF" : "War on I-4"
           },
           "rival" : [
             "USF"
@@ -1559,7 +1558,7 @@
           "prestige" : "38",
           "hexColor" : "#CC0000",
           "rivalryNames" : {
-
+            "FIU" : "Shula Bowl"
           },
           "rival" : [
             "FIU"
@@ -1585,7 +1584,7 @@
           "prestige" : "36",
           "hexColor" : "#011E41",
           "rivalryNames" : {
-
+            "GAST" : "Modern Day Hate"
           },
           "rival" : [
             "GAST"
@@ -1598,7 +1597,7 @@
           "prestige" : "36",
           "hexColor" : "#0039A6",
           "rivalryNames" : {
-
+            "GASO" : "Modern Day Hate"
           },
           "rival" : [
             "GASO"
@@ -1611,7 +1610,7 @@
           "prestige" : "35",
           "hexColor" : "#006747",
           "rivalryNames" : {
-
+            "UCF" : "War on I-4"
           },
           "rival" : [
             "UCF"
@@ -1624,7 +1623,7 @@
           "prestige" : "33",
           "hexColor" : "#081E3F",
           "rivalryNames" : {
-
+            "FAU" : "Shula Bowl"
           },
           "rival" : [
             "FAU"
