@@ -1,5 +1,5 @@
 {
-  "baseYear" : 2022, 
+  "baseYear" : 2012, 
   "proRelMode":"vertical",
   "relegationRoutes" : {
     "PAC" : "MWC",
@@ -30,17 +30,6 @@
           "rival" : [
             "BYU"
           ],
-          "headCoach" : {
-            "name" : "Kyle Whittingham",
-            "homeState" : "California",
-            "age" : "62",
-            "startYear" : "2004",
-            "contractYear" : "2",
-            "contractLength" : "7"
-          },
-          "name" : "Utah Utes",
-          "state" : "Utah"
-        },
         {
           "abbreviation" : "OREG",
           "prestige" : "67",
@@ -51,17 +40,6 @@
           "rival" : [
             "ASU"
           ],
-          "headCoach" : {
-            "name" : "Dan Lanning",
-            "homeState" : "Missouri",
-            "age" : "35",
-            "startYear" : "2022",
-            "contractYear" : "1",
-            "contractLength" : "6"
-          },
-          "name" : "Oregon Ducks",
-          "state" : "Oregon"
-        }, 
         {
           "abbreviation" : "WASH",
           "prestige" : "64",
@@ -72,14 +50,6 @@
           "rival" : [
             "WSU"
           ],
-          "headCoach" : {
-            "name" : "Kalen DeBoer",
-            "homeState" : "South Dakota",
-            "age" : "47",
-            "startYear" : "2022",
-            "contractYear" : "1",
-            "contractLength" : "5"
-          },
           "name" : "Washington Huskies",
           "state" : "Washington"
         },
