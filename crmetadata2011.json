@@ -409,12 +409,6 @@
           "abbreviation" : "CLEM",
           "prestige" : "91",
           "hexColor" : "#F56600",
-          "rivalryNames" : {
-            "SCAR" : "Palmetto Bowl"
-          },
-          "rival" : [
-            "SCAR"
-          ],
           "name" : "Clemson Tigers",
           "state" : "South Carolina"
         },
