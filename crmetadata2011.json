@@ -413,7 +413,7 @@
           "state" : "South Carolina"
         },
         {
-          "abbreviation" : "GEOR",
+          "abbreviation" : "GEOR", 
           "prestige" : "84",
           "hexColor" : "#BA0C2F",
           "name" : "Georgia Bulldogs",
