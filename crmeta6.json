@@ -280,13 +280,6 @@
           "state" : "Texas"
         },
         {
-          "abbreviation" : "UKY",
-          "prestige" : "63",
-          "hexColor" : "#0033A0",
-          "name" : "Kentucky Wildcats",
-          "state" : "Kentucky"
-        },
-        {
           "abbreviation" : "AUB",
           "prestige" : "63",
           "hexColor" : "#0C2340",
@@ -315,6 +308,13 @@
           "state" : "Missouri"
         },
         {
+          "abbreviation" : "GT",
+          "prestige" : "44",
+          "hexColor" : "#B3A369",
+          "name" : "Georgia Tech Yellow Jackets",
+          "state" : "Georgia"
+        },
+        {
           "abbreviation" : "ARK",
           "prestige" : "47",
           "hexColor" : "#9D2235",
@@ -341,6 +341,13 @@
           "hexColor" : "#003594",
           "name" : "Pittsburgh Panthers",
           "state" : "Pennsylvania"
+        },
+        {
+          "abbreviation" : "UKY",
+          "prestige" : "63",
+          "hexColor" : "#0033A0",
+          "name" : "Kentucky Wildcats",
+          "state" : "Kentucky"
         },
         {
           "abbreviation" : "WVU",
@@ -383,13 +390,6 @@
           "hexColor" : "#E03A3E",
           "name" : "Maryland Terrapins",
           "state" : "Maryland"
-        },
-        {
-          "abbreviation" : "CINC",
-          "prestige" : "46",
-          "hexColor" : "#000000",
-          "name" : "Cincinnati Bearcats",
-          "state" : "Ohio"
         },
         {
           "abbreviation" : "SYR",
@@ -791,11 +791,11 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "APP",
-          "prestige" : "48",
-          "hexColor" : "#FFCC00",
-          "name" : "Appalachian State Mountaineers",
-          "state" : "North Carolina"
+          "abbreviation" : "CINC",
+          "prestige" : "46",
+          "hexColor" : "#000000",
+          "name" : "Cincinnati Bearcats",
+          "state" : "Ohio"
         },
         {
           "abbreviation" : "ARMY",
@@ -868,18 +868,18 @@
     {
       "confTeams" : [
         {
+          "abbreviation" : "APP",
+          "prestige" : "48",
+          "hexColor" : "#FFCC00",
+          "name" : "Appalachian State Mountaineers",
+          "state" : "North Carolina"
+        },
+        {
           "abbreviation" : "UCF",
           "prestige" : "44",
           "hexColor" : "#BA9B37",
           "name" : "Central Florida Knights",
           "state" : "Florida"
-        },
-        {
-          "abbreviation" : "GT",
-          "prestige" : "44",
-          "hexColor" : "#B3A369",
-          "name" : "Georgia Tech Yellow Jackets",
-          "state" : "Georgia"
         },
         {
           "abbreviation" : "FAU",
