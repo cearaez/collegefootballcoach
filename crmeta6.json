@@ -78,7 +78,7 @@
         },
         {
           "abbreviation" : "CAL",
-          "prestige" : "50",
+          "prestige" : "51",
           "hexColor" : "#FDB515",
           "name" : "California Golden Bears",
           "state" : "California"
@@ -99,7 +99,7 @@
       "confTeams" : [
         {
           "abbreviation" : "OKL",
-          "prestige" : "83",
+          "prestige" : "84",
           "hexColor" : "#841617",
           "name" : "Oklahoma Sooners",
           "state" : "Oklahoma"
@@ -113,7 +113,7 @@
         },
         {
           "abbreviation" : "BAYL",
-          "prestige" : "64",
+          "prestige" : "65",
           "hexColor" : "#003015",
           "name" : "Baylor Bears",
           "state" : "Texas"
@@ -141,7 +141,7 @@
         },
         {
           "abbreviation" : "IAST",
-          "prestige" : "55",
+          "prestige" : "56",
           "hexColor" : "#C8102E",
           "name" : "Iowa State Cyclones",
           "state" : "Iowa"
@@ -204,7 +204,7 @@
         },
         {
           "abbreviation" : "MICH",
-          "prestige" : "69",
+          "prestige" : "70",
           "hexColor" : "#00274C",
           "name" : "Michigan Wolverines",
           "state" : "Michigan"
@@ -239,7 +239,7 @@
         },
         {
           "abbreviation" : "PURD",
-          "prestige" : "48",
+          "prestige" : "49",
           "hexColor" : "#CEB888",
           "name" : "Purdue Boilermakers",
           "state" : "Indiana"
@@ -267,7 +267,7 @@
         },
         {
           "abbreviation" : "LSU",
-          "prestige" : "70",
+          "prestige" : "71",
           "hexColor" : "#461D7C",
           "name" : "LSU Tigers",
           "state" : "Louisiana"
@@ -302,7 +302,7 @@
         },
         {
           "abbreviation" : "MIZZ",
-          "prestige" : "56",
+          "prestige" : "57",
           "hexColor" : "#F1B82D",
           "name" : "Missouri Tigers",
           "state" : "Missouri"
@@ -414,7 +414,7 @@
         },
         {
           "abbreviation" : "FLOR",
-          "prestige" : "65",
+          "prestige" : "66",
           "hexColor" : "#0021A5",
           "name" : "Florida Gators",
           "state" : "Florida"
@@ -540,7 +540,7 @@
         },
         {
           "abbreviation" : "SJSU",
-          "prestige" : "32",
+          "prestige" : "33",
           "hexColor" : "#0055A2",
           "name" : "San Jose State Spartans",
           "state" : "California"
@@ -554,7 +554,7 @@
         }
       ],
       "confFullName" : "Mountain West Conference",
-      "confPrestige" : "39",
+      "confPrestige" : "40",
       "confName" : "MWC"
     },
     {
@@ -596,7 +596,7 @@
         },
         {
           "abbreviation" : "WYOM",
-          "prestige" : "36",
+          "prestige" : "37",
           "hexColor" : "#492F24",
           "name" : "Wyoming Cowboys",
           "state" : "Wyoming"
@@ -631,7 +631,7 @@
         }
       ],
       "confFullName" : "American Athletic Conference",
-      "confPrestige" : "36",
+      "confPrestige" : "37",
       "confName" : "AAC"
     },
     {
@@ -750,21 +750,21 @@
         },
         {
           "abbreviation" : "ARST",
-          "prestige" : "36",
+          "prestige" : "37",
           "hexColor" : "#CC092F",
           "name" : "Arkansas State Red Wolves",
           "state" : "Arkansas"
         },
         {
           "abbreviation" : "USM",
-          "prestige" : "34",
+          "prestige" : "35",
           "hexColor" : "#FFAB00",
           "name" : "Southern Mississippi Golden Eagles",
           "state" : "Mississippi"
         },
         {
           "abbreviation" : "TLNE",
-          "prestige" : "32",
+          "prestige" : "33",
           "hexColor" : "#006747",
           "name" : "Tulane Green Wave",
           "state" : "Louisiana"
@@ -785,7 +785,7 @@
         }
       ],
       "confFullName" : "Conference USA",
-      "confPrestige" : "36",
+      "confPrestige" : "37",
       "confName" : "CUSA"
     },
     {
@@ -848,7 +848,7 @@
         },
         {
           "abbreviation" : "KENT",
-          "prestige" : "32",
+          "prestige" : "33",
           "hexColor" : "#002664",
           "name" : "Kent State Golden Flashes",
           "state" : "Ohio"
@@ -918,7 +918,7 @@
         },
         {
           "abbreviation" : "ECAR",
-          "prestige" : "32",
+          "prestige" : "33",
           "hexColor" : "#592A8A",
           "name" : "East Carolina Pirates",
           "state" : "North Carolina"
@@ -939,7 +939,7 @@
         }
       ],
       "confFullName" : "Sun Belt Conference",
-      "confPrestige" : "36",
+      "confPrestige" : "37",
       "confName" : "SUN"
     }
   ],
