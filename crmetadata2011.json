@@ -273,7 +273,7 @@
           "state" : "Texas"
         },
         {
-          "abbreviation" : "KTCY",
+          "abbreviation" : "UKY",
           "prestige" : "63",
           "hexColor" : "#0033A0",
           "name" : "Kentucky Wildcats",
@@ -378,7 +378,7 @@
           "state" : "Virginia"
         },
         {
-          "abbreviation" : "MRYL",
+          "abbreviation" : "MARY",
           "prestige" : "47",
           "hexColor" : "#E03A3E",
           "name" : "Maryland Terrapins",
@@ -682,7 +682,7 @@
           "abbreviation" : "MIOH",
           "prestige" : "37",
           "hexColor" : "#B61E2E",
-          "name" : "Miami RedHawks",
+          "name" : "Miami-Ohio RedHawks",
           "state" : "Ohio"
         },
         {
@@ -777,7 +777,7 @@
           "state" : "Louisiana"
         },
         {
-          "abbreviation" : "USAL",
+          "abbreviation" : "USA",
           "prestige" : "31",
           "hexColor" : "#00205B",
           "name" : "South Alabama Jaguars",
@@ -791,7 +791,7 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "APST",
+          "abbreviation" : "APP",
           "prestige" : "48",
           "hexColor" : "#FFCC00",
           "name" : "Appalachian State Mountaineers",
@@ -805,7 +805,7 @@
           "state" : "New York"
         },
         {
-          "abbreviation" : "MRSH",
+          "abbreviation" : "MARS",
           "prestige" : "40",
           "hexColor" : "#00B140",
           "name" : "Marshall Thundering Herd",
