@@ -682,7 +682,7 @@
           "abbreviation" : "MIOH",
           "prestige" : "35",
           "hexColor" : "#B61E2E",
-          "name" : "Miami-Ohio RedHawks",
+          "name" : "Miami Ohio RedHawks",
           "state" : "Ohio"
         },
         {
@@ -717,7 +717,7 @@
           "abbreviation" : "ULL",
           "prestige" : "44",
           "hexColor" : "#CE181E",
-          "name" : "Louisiana Ragin' Cajuns",
+          "name" : "Louisiana Ragin Cajuns",
           "state" : "Louisiana"
         },
         {
@@ -779,8 +779,8 @@
         {
           "abbreviation" : "ULM",
           "prestige" : "30",
-          "hexColor" : "#840029",
-          "name" : "Louisiana-Monroe Warhawks",
+          "hexColor" : "#800029",
+          "name" : "Louisiana Monroe Warhawks",
           "state" : "Louisiana"
         }
       ],
